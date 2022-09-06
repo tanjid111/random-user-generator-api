@@ -23,6 +23,26 @@ User id validation is done
 
 - PATCH /user/bulk-update update multiple users
 https://random-user-generator-api.onrender.com/api/v1/user/bulk-update
+Make sure to send the data in JSON format
+example:
+[
+    {
+        "id": 1,
+        "gender": "test",
+        "name": "test",
+        "contact": "test",
+        "address": "test",
+        "photo_url": "test"
+    },
+    {
+        "id": 2,
+        "gender": "test",
+        "name": "test",
+        "contact": "test",
+        "address": "test",
+        "photo_url": "test"
+    }
+]
 Update multiple users' information in the .json file
 Take an array of user ids and assign it to the body.
 Validation of the body can be done to check if all the required properties are present in the body.
