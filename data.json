@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Ronaldo",
+        "contact": "01234567",
+        "address": "England",
+        "photo_url": "https://library.sportingnews.com/styles/facebook_1200x630/s3/2022-05/CristianoRonaldo%20-%20cropped.jpg?itok=rjQEfVNQ"
+    },
+    {
+        "id": 2,
+        "gender": "male",
+        "name": "Messi",
+        "contact": "024680",
+        "address": "France",
+        "photo_url": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2021-08/lionel-messi-barcelona_1yojy2xfu73113vl8uaoqe9yd.jpg?itok=NhxrQaOC"
+    },
+    {
+        "id": 3,
+        "gender": "female",
+        "name": "Sharapova",
+        "contact": "4102341",
+        "address": "Russia",
+        "photo_url": "https://media.npr.org/assets/img/2020/02/26/sharapova-84bc97653a7b49b73fcb4919fec16a31aff3b806-s1100-c50.jpg"
+    },
+    {
+        "id": 4,
+        "gender": "female",
+        "name": "Serena",
+        "contact": "6352893",
+        "address": "USA",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcROQrV9g7kwRRDF-_NnOszI0Ec1DBOiE9HNtUxSCjWygeeUoaA3o8Q9TwJUUg&s=19"
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "Michael",
+        "contact": "4827381",
+        "address": "Germany",
+        "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Michael_Schumacher_2005_United_States_GP_%2819872855%29_%28cropped%29.jpg"
+    },
+    {
+        "id": 6,
+        "gender": "male",
+        "name": "Shakib",
+        "contact": "33098293829",
+        "address": "Bangladesh",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJOO1jsMdgDjv4DFLzhtRDr_SXoI1DwJfV3I-M2SUGQS7CVE4Dm08f-c&s"
+    },
+    {
+        "id": 7,
+        "gender": "male",
+        "name": "DiCaprio",
+        "contact": "231312312",
+        "address": "USA",
+        "photo_url": "https://prod-images.tcm.com/Master-Profile-Images/LeonardoDiCaprio.jpg"
+    },
+    {
+        "id": 8,
+        "gender": "male",
+        "name": "Bruce Lee",
+        "contact": "24235325",
+        "address": "Asia",
+        "photo_url": "https://variety.com/wp-content/uploads/2018/07/enter-the-dragon-bruce-lee.jpg"
+    },
+    {
+        "id": 9,
+        "gender": "male",
+        "name": "Shakib",
+        "contact": "33098293829",
+        "address": "Bangladesh",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJOO1jsMdgDjv4DFLzhtRDr_SXoI1DwJfV3I-M2SUGQS7CVE4Dm08f-c&s"
+    }
+]
