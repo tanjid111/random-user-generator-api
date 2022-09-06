@@ -1,5 +1,5 @@
 const { raw } = require("express");
-const fs = require("fs");
+const fs = require("fs"); gi
 
 const rawUserData = fs.readFileSync("data.json");
 let userData = JSON.parse(rawUserData);

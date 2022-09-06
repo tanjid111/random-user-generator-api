@@ -16,7 +16,8 @@ Validation of the body can be done to check if all the required properties are p
 
 
 - PATCH /user/update Update a random user
-https://random-user-generator-api.onrender.com/api/v1/user/update/1
+https://random-user-generator-api.onrender.com/api/v1/user/update/
+key in id after update/
 Update a user's information in the .json file using its id
 User id validation is done
 
@@ -48,6 +49,7 @@ Take an array of user ids and assign it to the body.
 Validation of the body can be done to check if all the required properties are present in the body.
 
 - DELETE /user/ delete
-https://random-user-generator-api.onrender.com/api/v1/user/delete/1
+https://random-user-generator-api.onrender.com/api/v1/user/delete/
+key in the id after delete/
 Delete a user from the .json file using its id
 User id validation is done

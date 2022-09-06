@@ -6,7 +6,7 @@ const limiter = require("../../middleware/limiter");
 const router = express.Router();
 
 router.route("/all")
-    .get(limiter, usersControllers.getAllUsers)
+    .get(usersControllers.getAllUsers)
 
 router.route("/random")
     .get(usersControllers.getRandomUser)
